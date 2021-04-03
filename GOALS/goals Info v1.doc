@@ -1,0 +1,1372 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body>
+				<div class="activityBox">
+					<h3 class="printHeader" style="">Storyboard - linear vs logistic regression</h3>
+					<h4 class="sectionTitle">The change you want to make</h4><!-- if needed -->
+					<p class="instructions">Write a brief general statement about the change you want to make with your project proposal. Consider the context, the stakeholder interests and the ultimate achievements you aim for the project [less the 400 words].
+</p><!-- if needed -->
+					<table class="activityTable" style="background-color: rgb(223, 223, 223); width: 100%;">
+						<thead>
+							<tr style="background-color: rgb(255, 230, 0);">
+								<th colspan="2" style="background-color: rgb(255, 230, 0);">The change you want to make</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr style="background-color: rgb(237, 237, 237);">
+								<td><p>I would like to enhance the defence capabilities of the ERG network from external network threats providing the greatest defence improvement advantage with the most limited resource expenditure.
+
+The project will focus primarily on the firewall and intrusion prevention Applications at ERG.
+
+</p></td>
+
+							</tr>
+
+
+						</tbody>
+					</table>
+
+
+				</div>
+
+				<div class="activitySection">
+					<div class="activityBox">
+						<h3 class="printHeader"></h3>
+						<h4 class="sectionTitle">Specific: Well defined, clear, and unambiguous</h4><!-- if needed -->
+
+						<table class="activityTable" style="background-color: rgb(223, 223, 223); width: 100%;">
+							<thead>
+								<tr style="background-color: rgb(255, 230, 0);">
+								<th colspan="2" style="background-color: rgb(255, 230, 0);">Specific</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr style="background-color: rgb(237, 237, 237);">
+									<td><p>The current firewall will be reviewed for suitability and product lifecycle requirements, should the existing firewall be found to be lacking, a new firewall will be selected and utilised. Should the existing firewall be found to be still suitable it will be patched and configuration hardened.</p></td>
+									<td><p></p></td>
+								</tr>
+								<tr>
+									<td><p>The existing IDS will be reviewed for appropriateness and an IDS management procedure created.</p></td>
+									<td><p>All network connected end user devices are to me logged and maintenance with the most current IDS.</p></td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="box">
+							<p></p>
+							<div class="line"></div>
+						</div>
+						
+					</div>
+
+
+				<div class="activitySection">
+					<div class="activityBox">
+						<h3 class="printHeader"></h3>
+						<h4 class="sectionTitle">Measurable: With specific criteria that measure your progress toward the accomplishment each goal</h4><!-- if needed -->
+
+						<table class="activityTable" style="background-color: rgb(223, 223, 223); width: 100%;">
+							<thead>
+								<tr style="background-color: rgb(255, 230, 0);">
+								<th colspan="2" style="background-color: rgb(255, 230, 0);">Measureable</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr style="background-color: rgb(237, 237, 237);">
+									<td><p>Suitability Matrix of Existing Firewall</p></td>
+									<td><p>Suitability Matrix of New Firewall</p></td>
+								</tr>
+								<tr>
+									<td><p>Documented Firewall Application Hardening Configurations</p></td>
+									<td><p>All network connected equipment is logged and IDS applications monitored and maintained.</p></td>
+								</tr>
+							</tbody>
+						</table>
+						<div class="box">
+							<p></p>
+							<div class="line"></div>
+						</div>
+						
+					</div>
+
+					<div class="activitySection">
+						<div class="activityBox">
+							<h3 class="printHeader"></h3>
+							<h4 class="sectionTitle">Achievable: Attainable and not impossible to achieve</h4><!-- if needed -->
+
+							<table class="activityTable" style="background-color: rgb(223, 223, 223); width: 100%;">
+								<thead>
+									<tr style="background-color: rgb(255, 230, 0);">
+										<th colspan="2" style="background-color: rgb(255, 230, 0);">Achievable</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr style="background-color: rgb(237, 237, 237);">
+										<td><p>A secure Firewall configuration that will reduce the threat from an external network attack.</p></td>
+										<td><p></p></td>
+									</tr>
+									<tr>
+										<td><p>A management process and records for the IDS going forward</p></td>
+										<td><p></p></td>
+									</tr>
+								</tbody>
+							</table>
+							<div class="box">
+								<p></p>
+								<div class="line"></div>
+							</div>
+							
+						</div>
+
+
+						<div class="activitySection">
+							<div class="activityBox">
+								<h3 class="printHeader"></h3>
+								<h4 class="sectionTitle">Realistic: Within reach, realistic, and relevant to your project purpose</h4><!-- if needed -->
+
+								<table class="activityTable" style="background-color: rgb(223, 223, 223); width: 100%;">
+									<thead>
+										<tr style="background-color: rgb(255, 230, 0);">
+											<th colspan="2" style="background-color: rgb(255, 230, 0);">Realistic</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr style="background-color: rgb(237, 237, 237);">
+											<td><p></p></td>
+											<td><p></p></td>
+										</tr>
+										<tr>
+											<td><p></p></td>
+											<td><p></p></td>
+										</tr>
+									</tbody>
+								</table>
+								<div class="box">
+									<p></p>
+									<div class="line"></div>
+								</div>
+								
+							</div>
+
+
+
+													<div class="activitySection">
+														<div class="activityBox">
+															<h3 class="printHeader"></h3>
+															<h4 class="sectionTitle">Time-bound: With a clearly defined timeline, including starting and target dates.</h4><!-- if needed -->
+													
+															<table class="activityTable" style="background-color: rgb(223, 223, 223); width: 100%;">
+																<thead>
+																	<tr style="background-color: rgb(255, 230, 0);">
+																		<th colspan="2" style="background-color: rgb(255, 230, 0);">Time-bound</th>
+																	</tr>
+																</thead>
+																<tbody>
+																	<tr style="background-color: rgb(237, 237, 237);">
+																		<td><p></p></td>
+																		<td><p></p></td>
+																	</tr>
+																	<tr>
+																		<td><p></p></td>
+																		<td><p></p></td>
+																	</tr>
+																</tbody>
+															</table>
+															<div class="box">
+																<p></p>
+																<div class="line"></div>
+															</div>
+															
+														</div>
+
+
+					<div class="vSpace"></div>
+					
+				</div>
+			</div>
+		</div>
+		<!-- Save as Excel -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/exceljs/2.0.1/exceljs.min.js"></script>
+		<!-- saveAsPdf -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"></script>
+		<!-- ~~~~~~~~ -->
+		<script type="text/JavaScript">
+			/****************************
+			Template info:
+			Use data-answer to enter the text or number for the correct answer. For numbers, write real numbers, don't format it as money for instance like 12,568.17, but just 12568.17
+			If the answer is money and you want the money sign (e.g. $) to be included, add it like $12568.17. Same for %.
+			If the answer is money but you DON'T want the money sign (e.g. $) to be shown, don't add it in the data-answer but add it in data-type so the answer is formated as money. Same for %.
+			*****************************/
+			//Custom variables
+			var bgColour = "";//light grey #FAFAFA
+			var tableColour = "#dfdfdf";//light blue #A5D6DF
+			var tableHeadColour = "#FFE600";//darker blue #639DA8
+			var tableBodyColour = "#ededed";//lighter blue #B3E1EA
+			var alternate = true;
+			//GLOBAL FUNCTIONS
+			function checkProp(dObj, returnList, all) {
+				if (dObj) {
+					var pList = [];
+					var tag = dObj.tagName;
+					var clony = tag ? document.createElement(tag) : null;
+					for (var p in dObj) {
+						var obj = (dObj[p] !== undefined && dObj[p] !== null) ? dObj[p] : null;
+						if (obj !== undefined && obj !== null) {
+							var pass = clony ? (p in clony) : false;
+							if (typeof(obj) == "function") pass = true;
+							if (!pass || all) pList.push(p+":"+obj+" ("+typeof(obj)+")\n");
+						}
+					}
+					if (returnList == true) {
+						return pList;
+					} else {
+						if (pList.length>=1) alert(pList);
+					}
+				}
+			};
+			var BrowserDetect = {
+				init: function () {
+					this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+					this.version = this.searchVersion(navigator.userAgent)
+						|| this.searchVersion(navigator.appVersion)
+						|| "an unknown version";
+					this.OS = this.searchString(this.dataOS) || "an unknown OS";
+					if (window.ActiveXObject || "ActiveXObject" in window || ((window.navigator.pointerEnabled || window.navigator.msPointerEnabled) && (window.navigator.msMaxTouchPoints>=1 || navigator.maxTouchPoints>=1))) this.browser = "Explorer";
+				},
+				searchString: function (data) {
+					for (var i = 0; i<data.length; i++)	{
+						var dataString = data[i].string;
+						var dataProp = data[i].prop;
+						this.versionSearchString = data[i].versionSearch || data[i].identity;
+						if (dataString) {
+							if (dataString.indexOf(data[i].subString) != -1)
+								return data[i].identity;
+						}
+						else if (dataProp)
+							return data[i].identity;
+					}
+				},
+				searchVersion: function (dataString) {
+					var index = dataString.indexOf(this.versionSearchString);
+					if (index === -1) return;
+					var rv = dataString.indexOf("rv:");
+					if (this.versionSearchString === "Trident" && rv !== -1) {
+						return parseFloat(dataString.substring(rv + 3));
+					} else {
+						return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));
+					}
+				},
+				dataBrowser: [
+					{string: navigator.userAgent, subString: "Edge", identity: "MS Edge Explorer"},
+					{string: navigator.userAgent, subString: "MSIE", identity: "Explorer"},
+					{string: navigator.userAgent, subString: "Trident", identity: "Explorer"},
+					{string: navigator.userAgent, subString: "OPR", identity: "Opera"},
+					{string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+					{string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+					{string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+					{prop: window.opera,identity: "Opera",versionSearch: "Version"},
+					{string: navigator.vendor,subString: "iCab",identity: "iCab"},
+					{string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+					{string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+					{string: navigator.vendor,subString: "Camino",identity: "Camino"},
+					{string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+					{string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+					{string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+					{string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}
+				],
+				dataOS : [
+					{string: navigator.platform,subString: "Win",identity: "Windows"},
+					{string: navigator.platform,subString: "Mac",identity: "Mac"},
+					{string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+					{string: navigator.platform,subString: "Linux",identity: "Linux"}
+				]
+			};
+			BrowserDetect.init();
+			if (!Array.isArray) Array.isArray=function(a){return ''+a!==a && {}.toString.call(a)=='[object Array]';};
+			function getStyle(oElm, strCssRule, returnString) {
+				if (oElm) {
+					var strValue = "";
+					if (document.defaultView && document.defaultView.getComputedStyle) {
+						strValue = document.defaultView.getComputedStyle(oElm, "").getPropertyValue(strCssRule);
+						if (strValue == "" || strValue == undefined) strValue = window.getComputedStyle(oElm, null).getPropertyValue(strCssRule);//23/05/13
+					} else if (oElm.currentStyle) {
+						strCssRule = strCssRule.replace(/\-(\w)/g, function (strMatch, p1) {
+							return p1.toUpperCase();
+						});
+						strValue = oElm.currentStyle[strCssRule];
+					}
+					if (strValue != undefined && strValue != "") {
+						if (isNaN(parseInt(strValue)) && (strCssRule == "left" || strCssRule == "top" || strCssRule == "width" || strCssRule == "height")) {
+							switch (strCssRule) {
+								case "left":
+									strValue = (returnString == true) ? oElm.offsetLeft+"px" : oElm.offsetLeft;
+								break;
+								case "top":
+									strValue = (returnString == true) ? oElm.offsetTop+"px" : oElm.offsetTop;
+								break;
+								case "width":
+									strValue = (returnString == true) ? oElm.offsetWidth+"px" : oElm.offsetWidth;
+								break;
+								case "height":
+									strValue = (returnString == true) ? oElm.offsetHeight+"px" : oElm.offsetHeight;
+								break;
+								default:
+									strValue = null;
+								break;
+							}
+							return strValue;
+						}
+						return (returnString == true || isNaN(parseFloat(strValue)) || String(strValue).indexOf("%")>=1) ? strValue : parseFloat(strValue);
+					} else {
+						switch (strCssRule) {
+							case "left":
+								strValue = (returnString == true) ? oElm.offsetLeft+"px" : oElm.offsetLeft;
+							break;
+							case "top":
+								strValue = (returnString == true) ? oElm.offsetTop+"px" : oElm.offsetTop;
+							break;
+							case "width":
+								strValue = (returnString == true) ? oElm.offsetWidth+"px" : oElm.offsetWidth;
+							break;
+							case "height":
+								strValue = (returnString == true) ? oElm.offsetHeight+"px" : oElm.offsetHeight;
+							break;
+							default:
+								strValue = null;
+							break;
+						}
+						return strValue;
+					}
+				}
+			};
+			function RgbToHex(colour, returnColour) {
+				var fillZero = function(myString) {
+					if (myString.length == 1) return "0" + myString;
+					else return myString;
+				}
+				var digits = /(.*?)rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)/.exec(colour);
+				if (digits == null) return "";
+				var red = parseInt(digits[2]);
+				var green = parseInt(digits[3]);
+				var blue = parseInt(digits[4]);
+				var hexcode = fillZero(red.toString(16)) + fillZero(green.toString(16)) + fillZero(blue.toString(16));
+				var N = (returnColour == true) ? "#" : "";
+				return N+String(hexcode).toUpperCase();
+			};
+			function setColour(C) {
+				return (C != undefined && C.length>=2 && String(C).toLowerCase() != "transparent" && String(C).toLowerCase().indexOf("rgb") == -1 && String(C).charAt(0) != "#") ? "#"+C : C;
+			};
+			function randomIn(mini, maxi) {
+				return (Math.random()*(maxi-mini))+mini;
+			};
+			function setFocus(inputField) {
+				setTimeout(function() { if (typeof(inputField) != "undefined") inputField.focus(); }, 300);
+			};
+			function formatMoney(n, c, d, t, m) {
+				if (n.indexOf(" ")>=0) n = n.split(" ").join("");//8/05/19
+				if (n.indexOf(",")>=0) n = n.split(",").join("");//8/05/19 (e.g. //$315,000)
+				if (n.indexOf("$")>=0) n = n.split("$").join("");//2/05/19
+				if (n.indexOf("%")>=0) n = n.split("%").join("");//2/05/19
+				//16/06/19
+				var neg = (n.indexOf('-') == 0 || (n.indexOf('(')>=0 && n.indexOf(')')>0));
+				var negSign = (n.indexOf('-') == 0);
+				if (neg) n = n.split('-').join('');
+				if (neg) n = n.split('(').join('');
+				if (neg) n = n.split(')').join('');
+				//--------
+				if (m == undefined && m !== "") m = "$";//28/04/19 here we may want "" to not add $
+				c = isNaN(c = Math.abs(c)) ? 2 : c;
+				if (parseInt(n) == parseFloat(n)) c = 0;
+				d = (d == undefined) ? "." : d;
+				t = (t == undefined) ? "," : t;
+				var s = (n<0) ? "-" : "";
+				var i = String(parseInt(n = Math.abs(Number(n) || 0).toFixed(c)));
+				var j = (j = i.length) > 3 ? j % 3 : 0;
+				var money = m + s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - i).toFixed(c).slice(2) : "");//16/06/19 using var
+				//16/06/19
+				if (negSign == true) {
+					return '-'+money;
+				} else {
+				//--------
+					return neg ? '('+money+')' : money;//16/06/19 neg is new [note: $ is usually inside like ($xxx)]
+				}
+			};
+			var _a = {};
+			_a.tickCode = "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMzJweCIgaGVpZ2h0PSIzMnB4IiB2aWV3Qm94PSIwIDAgMzIgMzIiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDMyIDMyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBmaWxsPSIjMkVDQzcxIiBkPSJNNy4zLDE3LjVsLTAuOCwwLjlsNi43LDYuNWwxMS43NS0xMS41TDI0LjEsMTIuNmwwLjctMC43DQoJCUwyMS45LDkuMDVMMTMuMywxNy41bC0zLjg1LTMuM2wtMi45LDIuNTVMNy4zLDE3LjV6IE0zMC44LDEzLjljMC4wMzMsMC41LDAuMDUsMS4wMzMsMC4wNSwxLjZjMCw0LTEuNDQ5LDcuNDE3LTQuMzUsMTAuMjUNCgkJUzIwLjA4MywzMCwxNS45NSwzMGMtNC4xMzMsMC03LjY2Ny0xLjQxNy0xMC42LTQuMjVjLTIuMjMzLTIuMi0zLjYxNy00Ljc2Ny00LjE1LTcuN0MxLjA2NywxNy4yMTcsMSwxNi4zNjYsMSwxNS41DQoJCWMwLTQuMDMzLDEuNDUtNy40NjcsNC4zNS0xMC4zQzguMjgzLDIuNCwxMS44MTcsMSwxNS45NSwxQzIwLjA4MywxLDIzLjYsMi40LDI2LjUsNS4yQzI5LjAzMyw3LjY2NywzMC40NjcsMTAuNTY3LDMwLjgsMTMuOXoiLz4NCgk8cG9seWdvbiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbD0iIzI4QjM2MiIgcG9pbnRzPSIyNC4xLDEyLjYgMjQuOTUsMTMuNCAxMy4yLDI0LjkgNi41LDE4LjQgNy4zLDE3LjUgDQoJCTEzLjE1LDIzLjQgCSIvPg0KCTxwb2x5Z29uIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBmaWxsPSIjRUNGMEYxIiBwb2ludHM9IjI0LjEsMTIuNiAxMy4xNSwyMy40IDcuMywxNy41IDYuNTUsMTYuNzUgOS40NSwxNC4yIA0KCQkxMy4zLDE3LjUgMjEuOSw5LjA1IDI0LjgsMTEuOSAJIi8+DQoJPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiMyN0FFNjAiIGQ9Ik0zMC44LDEzLjljMC4xMzQsMC44MzMsMC4yLDEuNywwLjIsMi42DQoJCWMwLDQtMS40NSw3LjQxNy00LjM1LDEwLjI1QzIzLjcxNywyOS41ODMsMjAuMTg0LDMxLDE2LjA1LDMxYy00LjEsMC03LjYxNy0xLjQxNy0xMC41NS00LjI1Yy0yLjUtMi40NjctMy45MzMtNS4zNjYtNC4zLTguNw0KCQljMC41MzMsMi45MzQsMS45MTcsNS41LDQuMTUsNy43QzguMjgzLDI4LjU4MywxMS44MTcsMzAsMTUuOTUsMzBjNC4xMzMsMCw3LjY0OS0xLjQxNywxMC41NS00LjI1czQuMzUtNi4yNSw0LjM1LTEwLjI1DQoJCUMzMC44NSwxNC45MzMsMzAuODMzLDE0LjQsMzAuOCwxMy45eiIvPg0KPC9nPg0KPC9zdmc+DQo=";
+			_a.crossCode = "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMzJweCIgaGVpZ2h0PSIzMnB4IiB2aWV3Qm94PSIwIDAgMzIgMzIiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDMyIDMyIiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBmaWxsPSIjQzAzOTJCIiBkPSJNMTguNjUsMTUuOGwtMC43LTAuN2w0LjM5OS00LjNMMjMsMTEuNTVMMTguNjUsMTUuOHogTTkuNiwyMC44NQ0KCQlsMS4yNSwxLjJsNS4wNS00Ljk1bDUuMTUsNS4wNTFsMS40LTEuMjVsMC43LDAuNjk5TDIxLjEsMjMuNDVsLTUuMTQ5LTQuOUwxMC44LDIzLjRsLTEuOTUtMS45TDkuNiwyMC44NXogTTkuNSwxMC44bDQuNDUsNC4zNQ0KCQlsLTAuNjUsMC42bC00LjQtNC4zTDkuNSwxMC44eiBNMSwxNmMwLjEsMy44LDEuNTY3LDcuMDY2LDQuNCw5LjhjMi45MzQsMi44MzQsNi40NjcsNC4yNSwxMC42LDQuMjVjNC4xMzQsMCw3LjY2Ny0xLjQxNiwxMC42LTQuMjUNCgkJYzIuODM0LTIuNzMzLDQuMzAxLTYsNC40LTkuOGMwLDAuMTM0LDAsMC4yODMsMCwwLjQ1YzAsNC4wMzMtMS40NjcsNy40NjctNC40LDEwLjNDMjMuNjY3LDI5LjU4MywyMC4xMzQsMzEsMTYsMzENCgkJYy00LjEzMywwLTcuNjY3LTEuNDE3LTEwLjYtNC4yNUMyLjQ2NywyMy45MTcsMSwyMC40ODMsMSwxNi40NUMxLDE2LjI4MywxLDE2LjEzNCwxLDE2eiIvPg0KCTxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBmaWxsPSIjRTc0QzNDIiBkPSJNOS41LDEwLjhsLTAuNiwwLjY1bDQuNCw0LjNsLTQuNTUsNC40TDkuNiwyMC44NUw4Ljg1LDIxLjUNCgkJbDEuOTUsMS45bDUuMTUtNC44NTFsNS4xNDksNC45TDIzLjE1LDIxLjZsLTAuNy0wLjY5OWwwLjc1LTAuN2wtNC41NS00LjRMMjMsMTEuNTVsLTAuNjUtMC43NWwwLjctMC43bC0yLTEuODVsLTUuMSw0Ljk1bC01LjItNQ0KCQlMOC43LDEwTDkuNSwxMC44eiBNMzEsMTZjLTAuMSwzLjgtMS41NjYsNy4wNjYtNC40LDkuOGMtMi45MzMsMi44MzQtNi40NjYsNC4yNS0xMC42LDQuMjVjLTQuMTMzLDAtNy42NjctMS40MTYtMTAuNi00LjI1DQoJCWMtMi44MzMtMi43MzMtNC4zLTYtNC40LTkuOGMwLTAuMTY3LDAtMC4zMzMsMC0wLjVjMC00LDEuNDY3LTcuNDE3LDQuNC0xMC4yNUM4LjMzMywyLjQxNywxMS44NjcsMSwxNiwxDQoJCWM0LjEzNCwwLDcuNjY3LDEuNDE3LDEwLjYsNC4yNUMyOS41MzMsOC4wODMsMzEsMTEuNSwzMSwxNS41QzMxLDE1LjY2NywzMSwxNS44MzMsMzEsMTZ6Ii8+DQoJPHBvbHlnb24gZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiNFQ0YwRjEiIHBvaW50cz0iMjIuMzUsMTAuOCAxNy45NSwxNS4xIDE4LjY1LDE1LjggMjMuMiwyMC4yIDIyLjQ1LDIwLjkgDQoJCTIxLjA1LDIyLjE1IDE1LjksMTcuMSAxMC44NSwyMi4wNSA5LjYsMjAuODUgOC43NSwyMC4xNSAxMy4zLDE1Ljc1IDEzLjk1LDE1LjE1IDkuNSwxMC44IDguNywxMCAxMC43NSw4LjIgMTUuOTUsMTMuMiAyMS4wNSw4LjI1IA0KCQkyMy4wNSwxMC4xIAkiLz4NCjwvZz4NCjwvc3ZnPg0K";
+			var browser = {Name:BrowserDetect.browser, Version:BrowserDetect.version, OS:BrowserDetect.OS};
+			var isFirefox = (browser.Name.toLowerCase().indexOf("firefox") != -1);
+			var isExplorer = (browser.Name.toLowerCase().indexOf("explorer") != -1);
+			var isChrome = (browser.Name.toLowerCase().indexOf("chrome") != -1);
+			var isSafari = (browser.Name.toLowerCase().indexOf("safari") != -1);
+			var isAndroid = (navigator.userAgent.toLowerCase().indexOf("android") !=- 1);
+			//------------------------------
+			function setActivity() {
+				var activity = document.querySelector("#activity");
+				var activityPanel = activity ? activity.querySelector('.activityPanel') : null;
+				var activitySection = activityPanel ? activityPanel.querySelector('.activitySection') : null;
+				if (activity) {
+					var testing = false;//the correct answer is displayed in the developer panel console
+					var valueList = [[]];//we first use fixed values then random numbers (answer is 1.02). e.g. [[10.92]] --- not used here
+					var valueIndex = 0;
+					var checkBtn = activity.querySelector('.checkBtn');
+					var resetBtn = activity.querySelector('.resetBtn');
+					var showBtn = activity.querySelector('.showBtn');
+					var replayBtn = activity.querySelector('.replayBtn');
+					if (replayBtn) replayBtn.style.display = "none";//NO RANDOM NUMBERS HERE
+					var saveBtn = activity.querySelector('.saveBtn');//SPECIFIC
+					//SPECIFIC
+					var maxRows = 100;//to limit the number of rows added (but set to a very big number anyway here)
+					//--------
+					var correctFeedback = activity.querySelector('.giz-flexquiz-correct-feedback');
+					var incorrectFeedback = activity.querySelector('.giz-flexquiz-incorrect-feedback');
+					var noAnswerFeedback = activity.querySelector('.noanswer-feedback');
+					var correctanswerFeedback = activity.querySelector('.correctanswer-feedback');
+					var correctanswer = correctanswerFeedback ? correctanswerFeedback.querySelector('.correctanswer') : null;
+					var tableList = activity.querySelectorAll('table');
+					if (bgColour != undefined && bgColour != "") document.getElementsByTagName('html')[0].style.backgroundColor = setColour(bgColour);
+
+					//STORING DATE
+					var storage = {name:document.title, values:'', s:'⌂', v:'Φ', saved:''};//REMEMBER TO SET storage name!
+					storage.retrieve = function(container) {
+						storage.saved = window.localStorage.getItem(storage.name);
+						if (testing) console.log('saved:', storage.saved);
+						if (storage.saved != undefined && storage.saved != "") {
+
+							//SPECIFIC
+							var stList = storage.saved;
+							if (storage.saved.indexOf(storage.v)>0) {
+								var sList = storage.saved.split(storage.v);
+								if (sList) {
+									if (sList.length) {
+										stList = sList[0];
+										var tbList = [];
+										var aBoxList = activity.querySelectorAll('.activityBox');
+										if (aBoxList) {
+											if (aBoxList.length) {
+												for (var a = 0, aEnd = aBoxList.length; a<aEnd; a++) {
+													var aTable = aBoxList[a].querySelector('.activityTable');
+													var aBtn = aBoxList[a].querySelector('.addRowBtn');
+													if (aTable && aBtn) tbList.push({aTable:aTable, aBtn:aBtn});
+												}
+											}
+										}
+										if ((sList.length-1) == tbList.length) {
+											for (var nR = 1, t = 0, nRend = sList.length; nR<nRend; nR++, t++) { //Good!
+												var newRows = sList[nR] ? parseInt(sList[nR]) : null;
+												if (newRows != undefined && !isNaN(Number(newRows)) && Number(newRows)>=1) {
+													var aTable = tbList[t] ? tbList[t].aTable : null;
+													var aBtn = tbList[t] ? tbList[t].aBtn : null;
+													if (aTable && aBtn) { //it should
+														for (var r = 1; r<=newRows; r++) {
+															addRow(aTable, aBtn);
+														}
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+							//--------
+
+							var sList = (stList.indexOf(storage.s)>=0) ? stList.split(storage.s) : [stList];//SPECIFIC using stList
+							if (sList) {
+								if (sList.length) {
+									var tList = container.querySelectorAll('input, textarea');
+									if (tList) {
+										if (tList.length) {
+											if (testing) console.log(tList.length, sList.length, '-----', sList);
+											var tEnd =  tList.length;
+											for (var t = 0; t<tEnd; t++) {
+												var tField = tList[t];
+												var s = sList[t];
+												if (tField && s != undefined) tField.value = s;
+												if (testing) console.log(s);
+											}
+										}
+									}
+								}
+							}
+						}
+					};
+					//---------------------------------------
+
+					//3/05/19 table colours
+					for (var t = 0, tEnd = tableList.length; t<tEnd; t++) {
+						var TB = tableList[t];
+						if (TB) {
+							if (tableColour != undefined && tableColour != "") TB.style.backgroundColor = setColour(tableColour);
+							var tHead = TB.querySelector('tHead');
+							var tBody = TB.querySelector('tBody');
+							if (tHead && tableHeadColour != undefined && tableHeadColour != "") {
+								var trList = tHead.querySelectorAll('tr');
+								for (var tr = 0, trEnd = trList.length; tr<trEnd; tr++) {
+									trList[tr].style.backgroundColor = setColour(tableHeadColour);
+									//18/07/19
+									var thList = trList[tr].querySelectorAll('th') ? trList[tr].querySelectorAll('th') : trList[tr].querySelectorAll('td');
+									for (var th = 0, thEnd = thList.length; th<thEnd; th++) {
+										thList[th].style.backgroundColor = setColour(tableHeadColour);
+									}
+									//--------
+								}
+							}
+							if (tBody && tableBodyColour != undefined && tableBodyColour != "") {
+								var trList = tBody.querySelectorAll('tr');
+								for (var tr = 0, trEnd = trList.length; tr<trEnd; tr++) {
+									if ((alternate == true && (tr == 0 || Math.ceil(tr/2) == Math.floor(tr/2))) || alternate != true) {
+										trList[tr].style.backgroundColor = setColour(tableBodyColour);
+									}
+									//16/06/20 th in tbody
+									var thList = trList[tr].querySelectorAll('th');
+									if (thList) {
+										if (thList.length) {
+											for (var th = 0, thEnd = thList.length; th<thEnd; th++) {
+												thList[th].style.backgroundColor = setColour(tableHeadColour);
+											}
+										}
+									}
+									//--------------------
+								}
+							}
+						}
+					}
+					//---------------------
+					//fields with values shown to the students
+					//none
+					//min/max values (used for random numbers)
+					var minV = 10;//integer
+					var maxV = 40;//integer
+					//2/05/19 buttons are greyed-out now, not display none
+					var colour = {off:"#787878", on:setColour(RgbToHex(getStyle(checkBtn, 'background-color')))};
+					var setBtn = function(btnList, isOn) {
+						if (!Array.isArray(btnList)) btnList = [btnList];
+						if (btnList) {
+							if (btnList.length) {
+								for (var b = 0, bEnd = btnList.length; b<bEnd; b++) {
+									var btn = btnList[b];
+									if (btn) {
+										if (isOn == true && btn.isOn != true) btn.style.backgroundColor = colour.on;
+										if (isOn == false && (btn.isOn == undefined || btn.isOn == true)) btn.style.backgroundColor = colour.off;
+										btn.isOn = (isOn == true);
+									}
+								}
+							}
+						}
+					};
+					//----------------------------------------------------
+					//value of answers in calculation
+					var answerList = [];
+					var correct = "";
+					var inputList = activity.querySelectorAll('input[data-answer]');
+					var iW = 0;//2/05/19
+					var aL = 0;//3/05/19
+					if (inputList) {
+						if (inputList.length) {
+							for (var f = 0, fEnd = inputList.length; f<fEnd; f++) {
+								var aField = inputList[f];
+								aField.onkeyup = function(event) {
+									if (this.disabled != true) { //2/05/19 condition for safety
+										if (!checkBtn.isOn) setBtn(checkBtn, true);//2/05/19 instead of display none/"".
+										var tick = this.parentNode.querySelectorAll('.tick') ? this.parentNode.querySelectorAll('.tick')[0] : null;
+										if (tick) this.parentNode.removeChild(tick);
+										//2/05/19
+										event = event || window.event;
+										var charCode = event.which || event.keyCode;
+										if (charCode == 13) checkAnswer(this); //ENTER
+										//------
+									}
+								};
+								//6/05/19
+								if (aField.parentNode.tagName.toLowerCase() == "td") aField.onblur = function(event) {
+									if (this.disabled != true) checkAnswer(this);
+								};
+								//-------
+								answerList.push(aField);
+								var answer = aField.getAttribute('data-answer');
+								var dataType = aField.getAttribute('data-type');
+								answer = answer.split(" ").join("").replace(/(\r\n|\n|\r)/gm, "").trim();
+								var answerType = (answer.indexOf("$") == 0 || dataType == "$") ? "$" : "";
+								if (dataType == " ") answerType = " ";//8/05/19
+								if (answer.indexOf("%") == (answer.length-1) || dataType == "%") answerType = "%";
+								aField.answer = answer;
+								aField.answerType = answerType;
+								correct+=answer+", ";
+								//2/05/19
+								if (answer != undefined && answer.length>=1) {
+									if (answer.length>aL) aL = answer.length;//3/05/19
+									var W = answer.length*10;//instead of 14 in this activity to reduce width
+									if (W != undefined && !isNaN(W) && iW<W) iW = W;
+								}
+								//-------
+							}
+							//2/05/19
+							var minW = getStyle(answerList[0], "min-width");
+							for (var f = 0, fEnd = answerList.length; f<fEnd; f++) {
+								answerList[f].style.minWidth = (iW != undefined && !isNaN(iW) && iW>minW) ? iW+"px" : minW+"px";//3/05/19min not max width
+								if (aL != undefined && !isNaN(aL) && aL>=1) answerList[f].setAttribute('size', aL);//3/05/19
+							}
+							//-------
+							correct = correct.slice(0, correct.lastIndexOf(","));
+						} else {
+							var navBarList = activity.querySelectorAll('.navBar');//13/11/19
+							if (navBarList) {
+								if (navBarList.length) {
+									for (var nb = 0, nbEnd = navBarList.length; nb<nbEnd; nb++) {
+										var navBox = navBarList[nb];//8/05/19 to be able to use this template for simple table; not interactive
+										if (navBox) navBox.style.display = "none";//8/05/19
+									}
+								}
+							}
+						}
+					}
+					var resetActivity = function(all, fromStart) {
+						if (correctFeedback) correctFeedback.style.display = "none";
+						if (incorrectFeedback) incorrectFeedback.style.display = "none";
+						if (noAnswerFeedback) noAnswerFeedback.style.display = "none";
+						if (correctanswerFeedback) correctanswerFeedback.style.display = "none";
+						if (correctanswer) correctanswer.innerHTML = "";
+						if (answerList.length>=1 && all) {
+							for (var f = 0, fEnd = answerList.length; f<fEnd; f++) {
+								var aField = answerList[f];
+								setTick(aField.parentNode);//remove
+								aField.value = "";
+								aField.disabled = false;
+							}
+							if (fromStart == true) valueIndex = 0;
+							setBtn([checkBtn, resetBtn, showBtn, replayBtn, saveBtn], false);//2/05/19 instead of display none. [+ SPECIFIC saveBtn]
+							//16/11/19 SPECIFIC
+							var addRowBtnList = activity.querySelectorAll('.addRowBtn');
+							if (addRowBtnList) { //16/06/20 condition is new
+								if (addRowBtnList.length) { //same
+									for (var a = 0, aEnd = addRowBtnList.length; a<aEnd; a++) {
+										setBtn(addRowBtnList[a], true);
+									}
+								}
+							}
+							//----------------
+							setHidden(false);
+							if (testing) console.log('correct answer: '+correct);
+							if (answerList[0]) setFocus(answerList[0]);
+						}
+						if (activity.style.display == "none") (function() { setTimeout(function() { activity.style.display = ""; }, 30); }(activity));<!-- nicer hidden while setting -->
+						//SPECIFIC
+						var tList = activitySection.querySelectorAll('textarea');
+						if (tList) {
+							if (tList.length) {
+								for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+									tList[t].value = "";
+								}
+							}
+						}
+						//--------
+
+						//STORING DATA
+						if (fromStart && storage) {
+
+							//SPECIFIC
+							var trList = activity.querySelectorAll('.newRow');
+							if (trList) {
+								if (trList.length) {
+									for (var r = 0, rEnd = trList.length; r<rEnd; r++) {
+										trList[r].parentNode.removeChild(trList[r]);
+									}
+								}
+							}
+							//--------
+
+							if (storage.saved != undefined && storage.saved != "") {
+								var clearSaved = confirm("Do you also want to delete the values saved in this browser for this interactive?");
+								if (clearSaved == true) {
+									window.localStorage.removeItem(storage.name);
+									storage.saved = '';
+								}
+								return false;
+							}
+						}
+						//--------
+
+					};
+					var setTick = function(e, c) { //element, correct
+						var tick = e.querySelector('.tick');
+						if (tick) e.removeChild(tick);
+						if (c === true || c === false) {
+							var sfb = document.createElement('img');
+							sfb.src = c ? _a.tickCode : _a.crossCode;
+							sfb.className = "tick";
+							e.appendChild(sfb);
+						}
+					};
+					//1/05/19
+					var showNote = function(e, show, isCorrect) {
+						if (e) {
+							var tr = e.parentNode ? e.parentNode : e;
+							var inc = 1;
+							if (tr) {
+								while (tr.tagName.toLowerCase() != "tr" && inc<6) {
+									(!tr.parentNode) ? inc = 6 : inc++;
+									tr = tr.parentNode ? tr.parentNode : tr;
+								}
+								if (tr.tagName.toLowerCase() == "tr") {
+									var tdList = tr.querySelectorAll('td');
+									for (var t = 0, tEnd = tdList.length; t<tEnd; t++) {
+										var p = tdList[t].querySelector('p');
+										if (p) {
+											//28/05/19
+											if (show == true) {
+												var txt = (p.txt != undefined && p.txt != "") ? p.txt : p.innerHTML;
+												if (txt.indexOf('|')>0) {
+													p.txt = txt;
+													p.innerHTML = isCorrect ? txt.split('|')[1] : txt.split('|')[0];//16/07/19 updated
+												}
+											}
+											//--------
+											if (p.style.display == "none" && show == true) p.style.display = "";
+											if (p.style.display != "none" && show == false) p.style.display = "none";
+											break;
+										}
+									}
+								}
+							}
+						}
+					};
+					//--------
+					//a bit specific to this activity
+					var setHidden = function(show, isCorrect) {
+						var tdList = activity.querySelectorAll('td');
+						for (var c = 0, cEnd = tdList.length; c<cEnd; c++) {
+							var td = tdList[c];
+							var p = td.querySelector('p');
+							if (p) {
+								//28/05/19
+								if (show == true) {
+									var txt = (p.txt != undefined && p.txt != "") ? p.txt : p.innerHTML;
+									if (txt.indexOf('|')>0) {
+										p.txt = txt;
+										p.innerHTML = isCorrect ? txt.split('|')[1] : txt.split('|')[0];//16/07/19 updated
+									}
+								}
+								//--------
+								if (p.style.display == "none" && show == true) p.style.display = "";
+								if (p.style.display != "none" && show != true) p.style.display = "none";
+							}
+						}
+					};
+					//2/05/19
+					var checkAnswer = function(aField) {
+						var empty = 0, right = 0, wrong = 0;
+						var answerType = aField.answerType;
+						var answer = (answerType == " ") ? aField.value.replace(/(\r\n|\n|\r)/gm, "").trim() : aField.value.replace(/(\r\n|\n|\r)/gm, "").trim().split(" ").join("");//8/15/19 condition " " (e.g. 560 000)
+						if (answer.indexOf("$")>=0) answer = answer.split("$").join("");
+						if (answer.indexOf("%")>=0) answer = answer.split("%").join("");
+						if (answer != undefined && answer != "") {
+							if (answerType == "$") answer = formatMoney(answer);
+							if (answerType == " ") answer = formatMoney(answer, null, null, " ", "");//8/05/19
+							if (answerType == "%") answer+='%';
+							var correctAnswer = aField.answer;
+							if (correctAnswer.indexOf("$")>=0) correctAnswer = correctAnswer.split("$").join("");
+							if (correctAnswer.indexOf("%")>=0) correctAnswer = correctAnswer.split("%").join("");
+							if (answerType == "$") correctAnswer = formatMoney(correctAnswer);
+							if (answerType == " ") correctAnswer = formatMoney(correctAnswer, null, null, " ", "");//8/05/19
+							if (answerType == "%" && correctAnswer.indexOf("%") == -1) correctAnswer+='%';//28/04/19 % condition added
+							//3/06/19
+							if (answer.charAt(0) == '-' || (answer.indexOf('(')>=0 && answer.indexOf(')')>0)) {
+								answer = answer.split('-').join('');
+								answer = answer.split('(').join('');//16/06/19 not join('(')
+								answer = answer.split(')').join('');//16/06/19 not join(')')
+								if (correctAnswer.indexOf('-') == 0) answer = '-'+answer;
+								if (correctAnswer.indexOf('(')>=0 && correctAnswer.indexOf(')')>0) answer = '('+answer+')';
+							}
+							//-------
+							var correct = ((answer !== undefined && answer !== null && answer !== "") && ((answer == correctAnswer) || (Number(answer) == Number(correctAnswer))));//16/07/19 I added 'Number' compare
+							if (!correct) wrong++;
+							setTick(aField.parentNode, correct);
+							showNote(aField, true, correct);//1/05/19 + 28/05/19 answer==correctAnswer
+							if (correct) aField.disabled = true;//user can't edit it
+							if (correct) right++;
+							if (correct) {
+								aField.value = (answerType == "$" && aField.getAttribute('data-answer').indexOf("$") == -1) ? correctAnswer.split("$").join("") : correctAnswer;//28/04/19 condition is new
+							}
+						} else {
+							empty++;
+						}
+						return {empty:empty, right:right, wrong:wrong};
+					};
+					//-------
+					var checkAnswers = function() {
+						var empty = 0, done = 0, right = 0, wrong = 0;
+						var check = {};//2/05/19
+						resetActivity();
+						for (var f = 0, fEnd = answerList.length; f<fEnd; f++) {
+							var aField = answerList[f];
+							var tick = aField.parentNode.querySelectorAll('.tick') ? aField.parentNode.querySelectorAll('.tick')[0] : null;
+							if (aField.disabled != true) {
+								//2/05/19 now code n checkAnswer
+								check = checkAnswer(aField);
+								if (check.empty>0) empty++;
+								if (check.right>0) right++;
+								if (check.wrong>0) wrong++;
+								//------------------------------
+							} else {
+								done++;
+								if (tick) right++;
+							}
+						}
+						if (empty == (answerList.length-done) && done != answerList.length) noAnswerFeedback.style.display = "";
+						if (done != answerList.length) setBtn(showBtn, true);//2/05/19 instead of display none/"".
+						if (right == answerList.length) {
+							if (correctFeedback) correctFeedback.style.display = "";
+							setHidden(true, true);//28/05/19 second true
+							setBtn(showBtn, false);//2/05/19 instead of display none/"".
+						}
+						if (wrong == answerList.length) incorrectFeedback.style.display = "";
+						setBtn(replayBtn, true);//2/05/19 instead of display none/"".
+						setBtn(resetBtn, true);//2/05/19 instead of display none/"".
+						setBtn(saveBtn, true);//SPECIFIC
+					};
+					if (checkBtn) checkBtn.onclick = function(event) {
+						if (this.isOn) checkAnswers();
+					};
+					if (resetBtn) resetBtn.onclick = function(event) {
+						if (this.isOn) {
+							setBtn(this, false);//2/05/19 instead of display none/"".
+							resetActivity(true, true);
+						}
+					};
+					var showAnswers = function() {
+						setBtn(showBtn, false);//2/05/19 instead of display none/"".
+						resetActivity();
+						for (var s = 0, sEnd = answerList.length; s<sEnd; s++) {
+							var aField = answerList[s];
+							if (aField.disabled != true) {
+								setTick(aField.parentNode);//remove
+								var correctAnswer = aField.answer;
+								var answerType = aField.answerType;
+								var answer = aField.value.split(" ").join("");
+								if (answerType == "$") correctAnswer = formatMoney(correctAnswer);//28/04/19
+								if (answerType == " ") correctAnswer = formatMoney(correctAnswer, null, null, " ", "");//8/05/19
+								if (answerType == "$" && answer != "") answer = formatMoney(answer);//2/05/19 !=""
+								if (answerType == " ") answer = formatMoney(answer, null, null, " ", "");//8/06/19
+								if (answerType == "%" && correctAnswer.indexOf("%") == -1) correctAnswer+='%';//28/04/19
+								if (answerType == "%" && answer != "") answer+='%';//2/05/19 !=""
+								//3/06/19
+								if (answer.charAt(0) == '-' || (answer.indexOf('(')>=0 && answer.indexOf(')')>0)) {
+									answer = answer.split('-').join('');
+									answer = answer.split('(').join('');//16/06/19 not join('(')
+									answer = answer.split(')').join('');//16/06/19 join(')')
+									if (correctAnswer.indexOf('-') == 0) answer = '-'+answer;
+									if (correctAnswer.indexOf('(')>=0 && correctAnswer.indexOf(')')>0) answer = '('+answer+')';
+								}
+								//-------
+								var correct = ((answer !== undefined && answer !== null && answer !== "") && ((answer == correctAnswer) || (Number(answer) == Number(correctAnswer))));//16/07/19 I added 'Number' compare
+								if (correct) {
+									aField.value = (answerType == "$" && aField.getAttribute('data-answer').indexOf("$") == -1) ? correctAnswer.split("$").join("") : correctAnswer;//28/04/19 condition is new
+									setTick(aField.parentNode, true);//2/05/19 fixed!
+								} else {
+									aField.value = (answerType == "$" && aField.getAttribute('data-answer').indexOf("$") == -1) ? correctAnswer.split("$").join("") : correctAnswer;//28/04/19 condition is new
+								}
+								aField.disabled = true;
+							}
+						}
+						setHidden(true, true);//28/05/19 second true
+						setTimeout(function() { setBtn(resetBtn, true); }, 300);//2/05/19 instead of display none/""
+					};
+					if (showBtn) showBtn.onclick = function(event) {
+						if (this.isOn) showAnswers();
+					};
+					var replayActivity = function() {
+						setBtn(replayBtn, false);//2/05/19 instead of display none/"".
+						resetActivity(true);
+					};
+					if (replayBtn) replayBtn.onclick = function(event) {
+						if (this.isOn) replayActivity();
+					};
+					//SPECIFIC
+					var saveAsPdf = function(container, quality, fName) {
+						var noLinks, noImages, noInputs, noLabels;//if needed
+						var tList = container.querySelectorAll('textarea');//note: no need to set height of input if any
+						if (tList) {
+							if (tList.length) {
+								for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+									var tField = tList[t];
+									if (tField.value != undefined && tField.value != "") {
+										tField.style.height = 'auto';
+										var h = tField.scrollHeight;
+										if (h != undefined && !isNaN(h) && h>0) tField.style.height = h+"px";
+									}
+								}
+							}
+						}
+						if (quality) {
+							var W = container.offsetWidth;
+							var H = container.offsetHeight;
+							var rW = 1;
+							var rH = 1;
+							var r = 1;
+							var pageW = 210;
+							var pageH = 297;
+							var gap = 10;
+							if (W != undefined && !isNaN(W) && W>0 && W<10000 && H != undefined && !isNaN(H) && H>0 && H<10000) {
+								if (W>(pageW-gap)) rW = ((pageW-gap)/W);
+								if (H>(pageH-gap)) rH = ((pageH-gap)/H);
+								r = (rW<rH) ? rW : rH;
+							}
+							var pW = W*r;
+							var pH = H*r;
+							var pX = (pageW-pW)/2;
+							if (pX<0) pX = 0;
+							var pY = (pageH-pH)/2;
+							if (pY<0) pY = 0;
+							if (pY>(gap/2)) pY = gap/2;
+							container.scrollIntoView(true);
+							var filename  = fName+'.pdf';
+							html2canvas(container, {scale: quality}).then(function(canvas) {
+								var pdf = new jsPDF('p', 'mm', 'a4');
+								pdf.addImage(canvas.toDataURL('image/png', 1.0), 'PNG', pX, pY, pW, pH);//specific dimensions here
+								if (fName == undefined || fName == "") fName = 'activity';
+								pdf.save(filename);
+							});
+						} else {
+							var mywindow = window.open('', 'Print', 'left=0,top=0,width=600,height=800,,toolbar=0,scrollbars=0,status=0');
+							mywindow.document.write('<html><head><title>Print</title>');
+							mywindow.document.write('</head><body >');
+							mywindow.document.write(container.innerHTML);
+							mywindow.document.write('</body></html>');
+							mywindow.document.close();
+							mywindow.focus()
+							mywindow.print();
+							mywindow.close();
+						}
+						(function(tList) { setTimeout(function() {
+							var tList = container ? container.querySelectorAll('textarea') : null;
+							if (tList) {
+								if (tList.length) {
+									for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+										var tField = tList[t];
+										if (tField.value != undefined && tField.value != "") tField.style.height = 'auto';
+									}
+								}
+							}
+						}, 60); }(tList));
+						return container;
+					};
+
+					var saveAsExcel3 = function(container, quality, fName, thBgColour, hWidthList) { //best! No warning to open file, and flexible formatting.
+						var tList = container.querySelectorAll('input, textarea, select');
+						var fList = [];
+						if (tList) {
+							if (tList.length) {
+								for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+									var tArea = tList[t];
+									var tBox = tArea ? tArea.parentNode : null;
+									var txt = tArea ? tArea.value : "";//code below needed even if txt is empty for Excel file not to have big scroll boxes.
+									fList.push({tBox:tBox, tArea:tArea});
+									tArea.style.display = 'none';//probably not necessary
+									tBox.textContent = txt;
+								}
+							}
+						}
+						var workbook = new ExcelJS.Workbook();
+						var worksheet = workbook.addWorksheet('sheet');
+						var thead = container.querySelector('thead');
+						var hasHead = thead ? true : false;
+						if (!hasHead) thead = container.querySelector('tbody');
+						var H = hasHead ? 'th' : 'td';
+						if (thead) {
+							var trList = thead.querySelectorAll('tr');
+							var thList = trList[0] ? trList[0].querySelectorAll(H) : [];
+							if (thList) {
+								if (thList.length) {
+									var columns = [];
+									for (var h = 0, hEnd = thList.length; h<hEnd; h++) {
+										var th = thList[h];
+										var txt = th.innerText.split('<br>').join(' ');
+										var cW = hWidthList ? Math.ceil(hWidthList[h]*0.15) : txt.length;
+										columns.push({header:txt, key:'#'+h, width:cW});
+									}
+									worksheet.columns = columns;
+								}
+							}
+							if (hasHead && trList.length>1) {
+								for (var r = 1, rEnd = thList.length; r<rEnd; r++) {
+									var tr = trList[r];
+									var tdList = tr.querySelectorAll('td');
+									var row = {};
+									for (var c = 0, cEnd = tdList.length; c<cEnd; c++) {
+										var td = tdList[c];
+										row['#'+c] = (!isNaN(Number(td.innerHTML))) ? Number(td.innerHTML) : td.innerHTML;//14/05/20 'Number' to not have Excel warning.
+									}
+									worksheet.addRow(row);//worksheet.addRow({name:'m', complexity: 'd', hours:5, cost: 7});
+								}
+							}
+						}
+						var tbody = container.querySelector('tbody');
+						var trList = tbody.querySelectorAll('tr');
+						var B = hasHead ? 0 : 1;
+						for (var r = B, rEnd = trList.length; r<rEnd; r++) {
+							var tr = trList[r];
+							var tdList = tr.querySelectorAll('td');
+							var row = {};
+							for (var c = 0, cEnd = tdList.length; c<cEnd; c++) {
+								var td = tdList[c];
+								row['#'+c] = (!isNaN(Number(td.innerHTML))) ? Number(td.innerHTML) : td.innerHTML;//14/05/20 'Number' to not have Excel warning.
+							}
+							worksheet.addRow(row);//worksheet.addRow({name:'m', complexity: 'd', hours:5, cost: 7});
+						}
+						//FORMATTING
+						var thObj = {bg: (thBgColour ? thBgColour : 'DADAED')};//grey-blue bg colour of headers
+						var lList = String('ABCDEFGHIJKLMNOPQRSTUVWXYZ').split('');
+						var nList = [];
+						for (var n = 1, nEnd = trList.length+1; n<=nEnd; n++) {
+							nList.push(n);
+						}
+						var L = '';
+						var N = '';
+						var cell = null;
+						var lEnd = (columns.length<lList.length) ? columns.length : lList.length;
+						var nEnd = ((trList.length+(hasHead ? 1 : 0))<nList.length) ? trList.length+(hasHead ? 1 : 0) : nList.length;
+						worksheet.pageSetup.blackAndWhite = true;
+						worksheet.pageSetup.fitToWidth = true;
+						worksheet.pageSetup.fitToHeight = true;
+						for (var l = 0; l<lEnd; l++) {
+							L = lList[l];
+							N = 1;
+							worksheet.getCell(L+N).font = {bold: true};
+							worksheet.getCell(L+N).fill = {type: 'pattern', pattern:'solid', fgColor:{argb:'FF'+thObj.bg}};
+							worksheet.getCell(L+N).alignment = {vertical: 'middle', horizontal: 'center'};
+						}
+						for (var l = 0; l<lEnd; l++) {
+							L = lList[l];
+							for (var n = 0; n<nEnd; n++) {
+								N = nList[n];
+								cell = worksheet.getCell(L+N);
+								if (cell) {
+									cell.border = {top: {style:'thin', color: {argb:'FF000000'}}, left: {style:'thin', color: {argb:'FF000000'}}, bottom: {style:'thin', color: {argb:'FF000000'}}, right: {style:'thin', color: {argb:'FF000000'}}};
+								} else {
+									if (n == 1) {
+										l = lEnd;
+									}
+									break;
+								}
+							}
+						}
+						//------------
+						workbook.xlsx.writeBuffer( {
+						  base64: true
+						}).then( function (xls64) {
+							var a = document.createElement("a");
+							var data = new Blob([xls64], { type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" });
+							var url = URL.createObjectURL(data);
+							a.href = url;
+							a.download = fName+".xlsx";
+							document.body.appendChild(a);
+							a.click();
+							setTimeout(function() {
+								document.body.removeChild(a);
+								window.URL.revokeObjectURL(url);
+							},
+							0);
+						});
+
+						if (fList) {
+							if (fList.length) {
+								for (var f = 0, fEnd = fList.length; f<fEnd; f++) {
+									fList[f].tBox.textContent = '';
+									fList[f].tBox.appendChild(fList[f].tArea);
+									if (fList[f].tArea) fList[f].tArea.style.display = '';//probably not necessary
+								}
+							}
+						}
+					};
+
+					//SPECIFIC FUNCTION BUT WORKS WELL
+					var saveAsWord = function(container, quality, fName) {
+						var preHtml = "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body>";
+						var postHtml = "</body></html>";
+
+						var tList = container.querySelectorAll('textarea');
+						var taList = [];
+						for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+							taList.push(tList[t].value);
+						}
+						var doc = document.createElement('section');
+						container.appendChild(doc);
+						doc.innerHTML = container.innerHTML;
+						//16/06/20
+						var tbList = doc.querySelectorAll('table');
+						if (tbList) {
+							if (tbList.length) {
+								for (var t = 0, tEnd = tbList.length; t<tEnd; t++) {
+									var tb = tbList[t];
+									tb.style.width = 100+'%';
+								}
+							}
+						}
+						//--------
+						var navBarList = doc.querySelectorAll('.navBar');
+						if (navBarList) { //16/06/20 condition is new
+							if (navBarList.length) { //same
+								for (var nb = 0, nbEnd = navBarList.length; nb<nbEnd; nb++) {
+									navBarList[nb].parentNode.removeChild(navBarList[nb]);
+								}
+							}
+						}
+						var tList = doc.querySelectorAll('textarea');
+						for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+							var ta = tList[t];
+							var txt = taList[t];
+							var tp = ta.parentNode;
+							var et = document.createElement('p');
+							tp.appendChild(et);
+							et.innerHTML = txt;
+							tp.removeChild(ta);
+						}
+
+						var html = preHtml+doc.innerHTML+postHtml;
+						var blob = new Blob(['\ufeff', html], { type: 'application/msword' });
+						var url = 'data:application/vnd.ms-word;charset=utf-8,' + encodeURIComponent(html);// Specify link url
+						var filename = fName ? fName+'.doc' : 'document.doc';// Specify file name
+						var downloadLink = document.createElement("a");// Create download link element
+						document.body.appendChild(downloadLink);
+						if (navigator.msSaveOrOpenBlob) {
+							navigator.msSaveOrOpenBlob(blob, filename);
+						} else {
+							downloadLink.href = url;// Create a link to the file
+							downloadLink.download = filename;// Setting the file name
+							downloadLink.click();//triggering the function
+						}
+						document.body.removeChild(downloadLink);
+
+						container.removeChild(doc);
+
+					};
+					//---------------------------------
+
+					var saveActivity = function(container, quality, fName) {
+						setBtn(saveBtn, false);
+						if (savedHeader != undefined && savedHeader != "") printHeader.style.display = '';
+						(isChrome || isFirefox) ? saveAsWord(container, quality, fName) : saveAsPdf(container, quality, fName);
+
+						//15/09/19
+						//STORING DATA
+						(function(container) {
+							setTimeout(function() {
+								if (savedHeader != undefined && savedHeader != "") printHeader.style.display = 'none';
+								var tList = container.querySelectorAll('input, textarea');
+								if (tList) {
+									if (tList.length) {
+										var values = "";
+										for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+											if (tList[t]) values+=tList[t].value+storage.s;
+										}
+										//SPECIFIC
+										var NR = "";
+										var tbList = container.querySelectorAll('table');
+										if (tbList) {
+											if (tbList.length) {
+												for (var tb = 0, tbEnd = tbList.length; tb<tbEnd; tb++) {
+													var nrList = tbList[tb].querySelectorAll('.newRow');
+													var newRows = nrList ? nrList.length : 0;
+													NR+=storage.v+newRows;
+												}
+
+											}
+										}
+										//--------
+										if (values != undefined && values != "") storage.values = storage.saved = values+NR;//NR is SPECIFIC
+									}
+								}
+								window.localStorage.setItem(storage.name, storage.values);
+							}, 60);
+						}(container));
+						//------------
+
+					};
+
+					saveBtn.onclick = function(event) {
+						if (this.isOn) saveActivity(activitySection, 3, storage.name);
+					};
+					//SPECIFIC
+					var tList = activitySection.querySelectorAll('textarea');
+					if (tList) {
+						if (tList.length) {
+							for (var t = 0, tEnd = tList.length; t<tEnd; t++) {
+								tList[t].onkeydown = function(event) {
+									//better not in case of accidental click  if (resetBtn.isOn != true) setBtn(resetBtn, true);
+									if (saveBtn.isOn != true) setBtn(saveBtn, true);
+								};
+							}
+						}
+					}
+					setTimeout(function() {
+						var navBarList = activity.querySelectorAll('.navBar');//13/11/19
+						if (navBarList) {
+							if (navBarList.length) {
+								for (var nb = 0, nbEnd = navBarList.length; nb<nbEnd; nb++) {
+									var navBox = navBarList[nb];
+									if (navBox) navBox.style.display = "";
+								}
+							}
+						}
+						if (resetBtn) resetBtn.isOn = true;
+						if (saveBtn) saveBtn.isOn = true;
+					}, 60);
+					//--------
+
+					//SPECIFIC 1/11/19
+					function addRow(aTable, btn, temp) {
+						var tBody = aTable ? aTable.querySelector('tbody') : null;
+						var trList = tBody ? tBody.querySelectorAll('tr') : null;
+						var newRow = null;
+						if (trList) {
+							var tr = trList[trList.length-1];
+							newRow = tr.cloneNode(true);
+							tBody.appendChild(newRow);
+							newRow.classList.add('newRow');
+							var tdList = newRow.querySelectorAll('td');
+							var tcol = (Math.ceil(trList.length/2)>Math.floor(trList.length/2)) ? tableColour : tableBodyColour;
+							for (var t = 0, tEnd = tdList.length; t<tEnd; t++) {
+								tdList[t].style.backgroundColor = tcol;
+								var ta = tdList[t].querySelector('textarea');
+								if (ta) ta.value = "";
+							}
+						}
+						if (temp) {
+							return newRow;
+						} else if (btn) {
+							if (maxRows && !isNaN(maxRows) && maxRows>1 && maxRows<10000 && trList.length>maxRows) setBtn(btn, false);
+							if (!resetBtn.isOn) setBtn(resetBtn, true);
+						}
+					};
+					//----------------
+
+					setTimeout(function() { storage.retrieve(activitySection); }, 120);//15/09/19 a little delay is required here (even 30 was enough)
+
+					//13/11/19
+					function setBtnFunctions(btnList) {
+						if (!Array.isArray(btnList)) btnList = [btnList];
+						if (btnList) {
+							if (btnList.length) {
+								for (var b = 0, bEnd = btnList.length; b<bEnd; b++) {
+									var btn = btnList[b];
+									if (btn) {
+										btn.onmouseover = function(event) {
+											this.style.cursor = (this.isOn == true) ? "pointer" : "default";
+										};
+										btn.onmouseout = function(event) {
+											this.style.cursor = "default";
+										};
+									}
+								}
+							}
+						}
+					};
+					setBtnFunctions([checkBtn, resetBtn, showBtn, replayBtn, saveBtn]);
+					var addRowBtnList = activity.querySelectorAll('.addRowBtn');
+					if (addRowBtnList) { //16/06/20 condition is new
+						if (addRowBtnList.length) { //same
+							for (var a = 0, aEnd = addRowBtnList.length; a<aEnd; a++) {
+								setBtnFunctions([addRowBtnList[a]], true);
+							}
+						}
+					}
+					//---------
+
+					//~~~~~~~~~~~~~~~~~~ SPECIFIC ~~~~~~~~~~~~~~~~~~
+
+					var questionList = [];
+
+					//VALUES TO EDIT [Note: question is required but you can leave 'answer' blank if there's not answer to show.]
+					var savedFilename = storage.name;
+					var savedHeader = "Storyboard - linear vs logistic regression";
+					questionList.push({question:"Question 2", Instructions:"Explain how to transform a linear relationship between independent variables and a dependent variable into a linear relationship that produces a probability for a binary response.", answer:""});
+					//-----------------------------------------------------------------------------------------------------------
+
+					var printHeader = activity.querySelector('.printHeader');
+					printHeader.innerHTML = savedHeader ? savedHeader : "";
+					printHeader.style.display = 'none';
+
+					var activityBoxList = activity.querySelectorAll('.activityBox');
+					if (activityBoxList) {
+						if (activityBoxList.length) {
+							for (var a = 0, aEnd = activityBoxList.length; a<aEnd; a++) {
+								var activityBox = activityBoxList[a];
+								if (activityBox) {
+									var addRowBtn = activityBox.querySelector('.addRowBtn');
+									if (addRowBtn) { //16/06/20 condition is new
+										addRowBtn.activityTable = activityBox.querySelector('.activityTable');
+										addRowBtn.onclick = function(event) {
+											if (this.isOn) addRow(this.activityTable, this);
+										};
+										setBtn(addRowBtn, true);
+									}
+								}
+							}
+						}
+					}
+
+					//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+					//##### ACCESSIBILITY #####
+					var btnList = activity.querySelectorAll('.btn');
+					if (btnList) {
+						if (btnList.length) {
+							for (var b = 0, bEnd = btnList.length; b<bEnd; b++) { //3/06/19 <bEnd not <btnList!
+								var btn = btnList[b];
+								if (btn) {
+									btn.tabIndex = 0;
+									btn.setAttribute('role', 'button');
+									btn.setAttribute('aria-pressed', false);
+								}
+							}
+						}
+					}
+					document.onkeypress = function(event) {
+						if (event) {
+							if (event.key === " " || event.key === "Enter") {
+								if (event.target) {
+									var targetClasses = event.target ? event.target.className : "";
+									if (targetClasses.indexOf("checkBtn")>=0) {
+										checkAnswers();
+									} else if (targetClasses.indexOf("showBtn")>=0) { //16/06/20 '>=0' was missing!!!
+										showAnswers();
+									} else if (targetClasses.indexOf("replayBtn")>=0) { //16/06/20 '>=0' was missing!!!
+										replayActivity();
+									} else if (targetClasses.indexOf("resetBtn")>=0) { //16/06/20 '>=0' was missing!!!
+										resetActivity(true, true);
+									} else if (targetClasses.indexOf("saveBtn")>=0) { //SPECIFIC [16/06/20 '>=0' was missing!!!]
+										var activitySection = document.querySelector('.activitySection');
+										if (targetId.isOn) saveActivity(activitySection, 3, storage.name);
+									} else if (targetClasses.indexOf("addRowBtn")>=0) { //SPECIFIC [16/06/20 '>=0' was missing!!!]
+										if (event.target.isOn) addRow(event.target.activityTable, event.target);
+									}
+								}
+							}
+						}
+					};
+					//#########################
+					resetActivity(true);
+					//-------- MATHJAX -----------
+					var runMJ = false;//in case MathJax needs to be called after a delay or some setting.
+					if (runMJ) (function () {
+						var script = document.createElement("script");
+						script.type = "text/javascript";
+						script.src = "/MathJax/MathJax.js";   // use the location of your MathJax
+
+						var config = 'MathJax.Hub.Config({' +
+									'extensions: ["tex2jax.js"],' +
+									'jax: ["input/TeX","output/HTML-CSS"]' +
+								'});' +
+								'MathJax.Hub.Startup.onload();';
+
+						if (window.opera) {script.innerHTML = config}
+								else {script.text = config}
+
+						document.getElementsByTagName("head")[0].appendChild(script);
+					})();
+				}
+			};
+			window.onload = setTimeout(function() { setActivity(); }, 300);
+		</script>
+
+
+
+</div></div><section></section></body></html>
