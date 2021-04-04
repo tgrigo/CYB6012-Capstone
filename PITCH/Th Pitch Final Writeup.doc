@@ -1,0 +1,55 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML To Doc</title></head><body><table class="activityTable" style="background-color: rgb(218, 228, 235); width: 100%; border-collapse: collapse;">
+        <thead>
+          <tr style="background-color: rgb(0, 0, 84);">
+            <th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">Pitch element</th>
+            <th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">Description</th>
+            <th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">Your notes</th>
+						<th style="background-color: rgb(0, 0, 84); border: 1px solid rgb(153, 153, 153); padding: 10px;">Your pitch</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;"><b>Problem statement</b></td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Explain what’s wrong and the problem you have uncovered.</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Lack of Network Cyber Security maintenance and policies.
+Lack of administration to network security requirements.
+Outdated or unpatched network security systems.</td>
+						<td style="border: 1px solid rgb(153, 153, 153); padding: 10px;"></td>
+          </tr>
+          <tr>
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;"><b>Get worse</b></td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Explain the likely outcome of not solving this problem.</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Potential malware or Ransomware attacks.
+loss of IP or confidential data.
+Business Interruption</td>
+						<td style="border: 1px solid rgb(153, 153, 153); padding: 10px;"></td>
+          </tr>
+          <tr style="background-color: rgb(232, 237, 241);">
+            <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;"><b>Glimmer of hope</b></td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">What you can do to fix this problem.</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Improve network security awareness and resource allocation.
+Replace equipment at a nominated lifecycle.
+manage the network security as a standard business function going forward</td>
+						<td style="border: 1px solid rgb(153, 153, 153); padding: 10px;"></td>
+          </tr>
+          <tr>
+           <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;"><b>Novel solution</b></td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">The idea you can have that can solve the problem.</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Simple Hardware configurations and management policies.</td>
+						<td style="border: 1px solid rgb(153, 153, 153); padding: 10px;"></td>
+          </tr>
+          <tr style="background-color: rgb(232, 237, 241);">
+          <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;"><b>Credibility</b></td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Why you are the person to solve the problem.</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">I am the GM, the Network administrator and the cyber security professional, I created the ERG network.</td>
+						<td style="border: 1px solid rgb(153, 153, 153); padding: 10px;"></td>
+          </tr>
+					<tr>
+          <td style="text-align: center; border: 1px solid rgb(153, 153, 153); padding: 10px;"><b>Vision</b></td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Inspire your audience, paint the picture of the outcome of the problem once solved.</td>
+            <td style="border: 1px solid rgb(153, 153, 153); padding: 10px;">Confidence in the external network defence system at ERG.
+Confidence that security equipment is operating as it should and is able to provide the most technologically advanced cyber protection with  restrictive organisational time and budget restraints.</td>
+						<td style="border: 1px solid rgb(153, 153, 153); padding: 10px;"></td>
+          </tr>
+        </tbody>
+      </table></body></html>
